@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [necolas/normalize.css](http://github.com/necolas/normalize.css). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/necolas-normalize.css`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # normalize.css v3
 
 Normalize.css is a customisable CSS file that makes browsers render all
